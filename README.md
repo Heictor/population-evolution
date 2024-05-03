@@ -1,8 +1,11 @@
 # population-evolution
 A visual mechanism to observe individuals' genetic changes over iterations on population algorithms
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11107044.svg)](https://doi.org/10.5281/zenodo.11107044)
 
-![popevol-ezgif com-speed](https://github.com/Heictor/population-evolution/assets/39010251/dbf4b8e0-d875-453d-b47d-2d6044688a78)
+
+![popevol-ezgif com-optimize](https://github.com/Heictor/population-evolution/assets/39010251/374af511-d6ab-4d98-875e-23ca52fe4ab0)
+
 
 This MATLAB function allows the user to observe the evolutive progress of its solutions population.
 It produces a bar plot figure, which updates at generation steps, with the following axis:
