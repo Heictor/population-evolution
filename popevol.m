@@ -1,9 +1,8 @@
 function [populationEvol] = popevol(pop,...
                                   maximal_generation,...
-                                  population_size,...
-                                  number_of_variables)
+                                  population_size)
 
-  
+    number_of_variables = length(pop(1,:)');  
     writerObj = VideoWriter('popevol','MPEG-4');
     writerObj.FrameRate = 6;
 
